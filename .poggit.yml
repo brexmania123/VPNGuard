@@ -2,7 +2,7 @@
 branches:
 - master
 projects:
-  VPNGuard:
+  VPNGuard-Latest:
     path: ""
     icon: vg.png
 ...
